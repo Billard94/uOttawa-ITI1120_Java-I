@@ -6,7 +6,7 @@
 import java.util.Scanner;
 import java.io.IOException;
 
-public class a4Solution{
+public class a4{
  public static void main(String args[]) {
   Scanner keyboard = new Scanner( System.in );
     
