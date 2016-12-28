@@ -5,7 +5,7 @@
 
 import java.util.Scanner;
 
-public class A3Q2solution {
+public class A3Q2 {
  public static void main(String[] args) { 
     
   // part (a) of the main
