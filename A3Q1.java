@@ -5,7 +5,7 @@
 
 import java.util.Scanner;
 
-public class A3Q1solution {
+public class A3Q1 {
  public static void main(String[] args) { 
   
  Scanner keyboard = new Scanner(System.in);
