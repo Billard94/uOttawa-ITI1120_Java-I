@@ -1,12 +1,11 @@
-import java.util.Scanner;
-public class A2Q1
-  
 // Family name, Given name:  Billard, Alexandre
 // Student number: 6812210
 // Course: ITI 1120 
 // Assignment Number: Assignement 2
 
-
+import java.util.Scanner;
+public class A2Q1
+  
 /*
 ================================================== 
                     Question 1 
